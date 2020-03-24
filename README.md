@@ -9,8 +9,9 @@ Well, let's find out! In this project, you get to explore patterns and trends in
 
 Before starting this project, we recommend that you have completed:
 
-pandas Foundations
-Data Visualization with Seaborn
+1. pandas Foundations
+2. Data Visualization with Seaborn
+
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 Project Tasks
